@@ -55,13 +55,47 @@ This statement is true as shown below: \\ \\
 $f(n) = O(g(n))$ can also be written as: $f(n) \leq M \cdot g(n)$, where M is some constant $> 0$. \\
 This statement can be extended as follows:
 $lg(f(n)) \leq lg(M \cdot g(n))$ \\
-Which will further mean that: \\
-$ lg (f(n)) \leq K \cdot (lg M + lg(g(n)))  $  where K is some constant $>$ 0 \\
-
+$ lg (f(n)) \leq (lg M + lg(g(n)))  $ \\
+As $lg(g(n)) > lg M $ for a sufficiently large n (as $n \rightarrow \inf$) \\
+This would mean that $lg (f(n)) \leq 2 \cdot lg(g(n)) $ \\
+Hence, $ lg(f(n)) \leq k \cdot lg(g(n))$, where k $ \geq $ 2.
 
 
 \section{Part 4}
-This statement can be 
+This statement can be disproved with a counter example \\
+If $f(n) = 2n$ and $g(n) = n$, then $2n$ $\epsilon$ $O(n)$ \\
+And then we try proving for $2^{2n} \leq c \cdot 2^n$ \\
+This gives us $2^n \leq c$ \\
+This is not possible as $ n \rightarrow \inf $ \\
+Hence, by contradiction we know that the statement is False
+
+\section{Part 5}
+This statement can be disproved with a counter example \\
+When $ f(n) = \frac{1}{n}$, then $ \frac{1}{n} \leq c \cdot \frac{1}{n^2} $ \\
+This gives us $ c \geq n$, which is not possible as n grows to be infinitely large. \\ \\
+It should be noted that this statement would be true if the function $f$ was a monotonically increasing function. $f(n) = \frac{1}{n} $ is not a monotonically increasing function.
+
+\section{Part 6}
+
+$ f(n) = O(g(n)) $ implies that $f(n) \leq c \cdot g(n) $ \\
+This means that $g(n) \geq c \cdot f(n) $ which directly leads us to $ g(n) $ $ \epsilon $ $ \Omega (f(n)) $ \\
+Hence the statement is true
+
+\section{Part 7}
+This claim can be disproved with an example. \\
+Consider the function $f(n) = 3^n$ and the fact that $ \theta $ implies $O$ and $\Omega$ to be true as well. \\
+When trying to assert this case for the upper bound, we run into the following problem: \\
+$ 3^n \leq c \cdot 3^{\frac{n}{2}}$ \\
+$ 3^{\frac{n}{2}} \leq c $ \\
+This cannot be true, as n grows to be infinitely large and will always overtake the constant term c.
+
+\section{Part 8}
+$\Omega (f(n))$ roughly represents a quantity that is larger than $f(n)$. \\
+We will now consider the case for both the upper bound and the lower bound, as we have to prove that the function holds the tightest bound. \\ \\
+Proving for the lower bound: As $\Omega (f(n))$ is larger than $f(n)$, and $\Omega (f(n)) > 0$, we know that for $f(n) + \Omega (f(n)) \geq c \cdot f(n)$ where $c$ is some constant $> 0$. This condition is fine. \\ \\
+Proving for the upper bound: as $\Omega (f(n))$ represents a function that is of a higher bound than $f(n)$, we cannot guarantee that there exists a constant $c$ for which $f(n) + \Omega (f(n)) \leq c \cdot f(n)$. Hence, the condition is not satisfied. \\ \\
+Conclusion: the function does not maintain the tightest bound of $f(n)$.
+
 
 
 \end{document}
