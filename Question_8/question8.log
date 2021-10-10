@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.10.10)  10 OCT 2021 19:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.10.10)  11 OCT 2021 00:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -84,7 +84,7 @@ Here is how much of TeX's memory you used:
  14 hyphenation exceptions out of 8191
  25i,4n,19p,312b,122s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on "/home/faaiq-desktop/Course Resources/Algorithm/Assignment_1/Question_8/question8.pdf" (2 pages, 71209 bytes).
+Output written on "/home/faaiq-desktop/Course Resources/Algorithm/Assignment_1/Question_8/question8.pdf" (2 pages, 71394 bytes).
 PDF statistics:
  35 PDF objects out of 1000 (max. 8388607)
  24 compressed objects within 1 object stream
