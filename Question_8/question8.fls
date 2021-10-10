@@ -17,6 +17,8 @@ OUTPUT /home/faaiq-desktop/Course Resources/Algorithm/Assignment_1/Question_8/qu
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 OUTPUT /home/faaiq-desktop/Course Resources/Algorithm/Assignment_1/Question_8/question8.pdf
 INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
 INPUT /home/faaiq-desktop/Course Resources/Algorithm/Assignment_1/Question_8/question8.aux
