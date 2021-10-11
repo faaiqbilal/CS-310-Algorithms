@@ -20,15 +20,15 @@
 
 \section{Listing from smallest to largest complexity}
 
-$2 \log_{10} 10^{200}$ Constant time \\ \\
-$10^{200}$ Constant time \\ \\ 
-$n^2 + \sqrt{n}$  Polynomial time \\ \\ 
-$n^2 + 7 \log n^2$ Polynomial time \\ \\ 
-$ n^2 \log 300  $ Polynomial time \\ \\ 
-$ n^2 \log n $ Polynomial time \\ \\
-$ n^4 $ Polynomial time \\ \\ 
-$ n^4 + n^2 + n^2 \log n $ Polynomial time \\ \\
-$ 3^{n^2} $ Exponential time \\ \\
+$2 \log_{10} 10^{200}$, $10^{200}$ Constant time ($O(1)$) \\ 
+They belong to the same class as they have a constant size. The complexity does not depend on the value of n. \\ \\
+$n^2 + \sqrt{n}$, $n^2 + 7 \log n^2$, $ n^2 \log 300  $  Polynomial (Quadratic, $O(n^2)$) time \\ 
+These expressions all belong to the same complexity class as they are bound by $n^2$. We know this because $n^2$ is the largest term in each of the expressions, and is hence the largest bound. \\ \\
+$ n^2 \log n $ Polynomial time ($O(n^2 \log n)$) \\ 
+This is not as simple as putting it in under $O(n^2)$, as the $log(n)$ term is multiplying, and will hence always overtake $c \cdot n^2$ as n grows infinitely large. The bound for this can also be given as $O(n^3)$, however, the immediate tightest bound is still in the form $O(n^2 \log n)$ \\ \\g
+$ n^4 $, $ n^4 + n^2 + n^2 \log n $ Polynomial time (Quartic, $O(n^4)$) \\ 
+All of the expressions belonging to this class have $n^4$ as the largest term, and hence $n^4$ bounds the equation. Hence, we can say that they belong to the same complexity class. \\ \\
+$ 3^{n^2} $ Exponential time ($k^{f(n)}$) \\ \\
 
 
 \end{document}
