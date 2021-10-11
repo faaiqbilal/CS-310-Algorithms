@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1633967483 "/home/faaiqbilal/Course Resources/Semester 5/Algorithms/Assignment_1/Question_9/question9.tex" "/home/faaiqbilal/Course Resources/Semester 5/Algorithms/Assignment_1/Question_9/question9.pdf" "question9" 1633967488
-  "/home/faaiqbilal/Course Resources/Semester 5/Algorithms/Assignment_1/Question_9/question9.aux" 1633967483 220 8db726b0661af527196dfb023ee800f0 ""
-  "/home/faaiqbilal/Course Resources/Semester 5/Algorithms/Assignment_1/Question_9/question9.tex" 1633964779 1726 1f078e9ee678567f3222f893705969f6 ""
+["pdflatex"] 1633983386 "/home/faaiqbilal/Course Resources/Semester 5/Algorithms/Assignment_1/Question_9/question9.tex" "/home/faaiqbilal/Course Resources/Semester 5/Algorithms/Assignment_1/Question_9/question9.pdf" "question9" 1633983393
+  "/home/faaiqbilal/Course Resources/Semester 5/Algorithms/Assignment_1/Question_9/question9.aux" 1633983386 314 b56f908ca6eb2bd6b8b8b8acbe822540 ""
+  "/home/faaiqbilal/Course Resources/Semester 5/Algorithms/Assignment_1/Question_9/question9.tex" 1633983393 3886 67a87aadd548fbeb6c9984c3c30d381f ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1617738065 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1617738065 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1617738065 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -10,9 +10,11 @@
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1617738065 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1617738065 32080 340ef9bf63678554ee606688e7b5339d ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1617738065 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
+  "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb" 1617738065 36281 c355509802a035cadc5f15869451dcee ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1617738065 35752 024fb6c41858982481f6968b5fc26508 ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1617738065 32762 224316ccc9ad3ca0423a14971cfa7fc1 ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1617738065 32569 5e5ddc8df908dea60932f3c484a54c0d ""
+  "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb" 1617738065 32716 08e384dc442464e7285e891af9f45947 ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb" 1617738065 37944 359e864bd06cde3b1cf57bb20757fb06 ""
   "/usr/share/texmf-dist/tex/latex/base/article.cls" 1617738065 20145 aad8c3dd3bc36e260347b84002182bc2 ""
   "/usr/share/texmf-dist/tex/latex/base/size10.clo" 1617738065 8449 a72d5d4e612221b46000c3d71724e0ef ""
@@ -20,11 +22,11 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1617738065 39911 2da6c67557ec033436fe5418a70a8a61 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1633869367 5045527 a0ef06d06af438d62994481e52c2af5f ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1633869342 2812683 db6fff6f24ddbf4589987d9c29bcdbf6 ""
-  "question9.aux" 1633967483 220 8db726b0661af527196dfb023ee800f0 "pdflatex"
-  "question9.tex" 1633964779 1726 1f078e9ee678567f3222f893705969f6 ""
+  "question9.aux" 1633983386 314 b56f908ca6eb2bd6b8b8b8acbe822540 "pdflatex"
+  "question9.tex" 1633983393 3886 67a87aadd548fbeb6c9984c3c30d381f ""
   (generated)
   "/home/faaiqbilal/Course Resources/Semester 5/Algorithms/Assignment_1/Question_9/question9.pdf"
   "question9.aux"
-  "question9.pdf"
-  "question9.log"
   "/home/faaiqbilal/Course Resources/Semester 5/Algorithms/Assignment_1/Question_9/question9.log"
+  "question9.log"
+  "question9.pdf"
